@@ -10,7 +10,7 @@ setup(
     name='voxin',
     # extract version from module.
     version=__version__,
-    description="A tornado example",
+    description="A tornado example.",
     long_description="",
     classifiers=[],
     keywords='',
