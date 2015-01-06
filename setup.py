@@ -28,8 +28,6 @@ setup(
         'distribute',
         'argparse',
         'tornado',
-        'suds',
-        'python-ntlm'
     ],
     # generate scripts
     entry_points={
