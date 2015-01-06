@@ -11,7 +11,7 @@ setup(
     # extract version from module.
     version=__version__,
     description="A tornado example.",
-    long_description="",
+    long_description="Ik heet voxin",
     classifiers=[],
     keywords='',
     author='Lars van de Kerkhof',
