@@ -1,3 +1,6 @@
+"""
+Voxin is a specialized tool for disproportionate logic arrays.
+"""
 from setuptools import setup, find_packages
 
 
